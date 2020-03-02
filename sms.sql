@@ -60,8 +60,7 @@ CREATE TABLE `classname` (
 --
 
 /*!40000 ALTER TABLE `classname` DISABLE KEYS */;
-INSERT INTO `classname` (`classid`,`classname`,`status`) VALUES 
- (1,'one','Running');
+INSERT INTO `classname` (`classid`,`classname`,`status`) VALUES (1,'one','Running');
 /*!40000 ALTER TABLE `classname` ENABLE KEYS */;
 
 
@@ -301,8 +300,7 @@ CREATE TABLE `stgroup` (
 --
 
 /*!40000 ALTER TABLE `stgroup` DISABLE KEYS */;
-INSERT INTO `stgroup` (`groupid`,`groupname`,`status`) VALUES 
- (1,'Commerce','ok');
+INSERT INTO `stgroup` (`groupid`,`groupname`,`status`) VALUES (1,'Commerce','ok');
 /*!40000 ALTER TABLE `stgroup` ENABLE KEYS */;
 
 
@@ -461,9 +459,9 @@ CREATE TABLE `user` (
 
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
 INSERT INTO `user` (`emailid`,`phone`,`username`) VALUES 
- ('admin@sms.com','01670015319','Rakib'),
- ('rakib@gmail.com','01830056388','Hassan'),
- ('shakil@gmail.com',NULL,NULL);
+ ('admin@sms.com','01672892356','Jafrul'),
+ ('jafrul@gmail.com','018300563425','Jafrul'),
+ ('faysal@gmail.com',NULL,NULL);
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 
 
@@ -487,7 +485,7 @@ CREATE TABLE `userrole` (
 /*!40000 ALTER TABLE `userrole` DISABLE KEYS */;
 INSERT INTO `userrole` (`emailid`,`password`,`role`,`status`) VALUES 
  ('admin@sms.com','123','ROLE_ADMIN','True'),
- ('rakib@gmail.com','123','ROLE_STUDENT','True'),
+ ('jafrul@gmail.com','123','ROLE_STUDENT','True'),
  ('shakil@gmail.com','123','ROLE_STUDENT','True');
 /*!40000 ALTER TABLE `userrole` ENABLE KEYS */;
 

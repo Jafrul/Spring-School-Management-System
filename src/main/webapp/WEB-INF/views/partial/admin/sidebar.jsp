@@ -16,7 +16,7 @@
                 <ul class="nav flex-column sub-menu">
                     <li class="nav-item"> <a class="nav-link" href="showingacademicyearpage">Academic Year</a></li>
                     <li class="nav-item"> <a class="nav-link" href="showingclassnamepage">Classes</a></li>
-                    <li class="nav-item"> <a class="nav-link" href="showclassroutinpage">Class Routin</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="showclassroutinpage">Class Routine</a></li>
                     <li class="nav-item"> <a class="nav-link" href="showclassteacherpage">Class Teacher</a></li>
                     <li class="nav-item"> <a class="nav-link" href="showsectionpage">Section</a></li>
                     <li class="nav-item"> <a class="nav-link" href="showingstgrouppage">Student Group</a></li>
@@ -60,7 +60,7 @@
                 <ul class="nav flex-column sub-menu">
                     <li class="nav-item"> <a class="nav-link" href="studentinfoepage">Student Information</a></li>
                     <li class="nav-item"> <a class="nav-link" href="showregistrationpage">Student Registration</a></li>
-                    <li class="nav-item"> <a class="nav-link" href="attendencpage">Student Attendence</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="attendencpage">Student Attendance</a></li>
                     <li class="nav-item"> <a class="nav-link" href="showStudentlist">Student List</a></li>
                     <li class="nav-item"> <a class="nav-link" href="searchstd">Search Student</a></li>
                 </ul>
